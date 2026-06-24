@@ -7,7 +7,8 @@
 * AVERAGE Function
 * MIN Function
 * MAX Function
-
+* CONCATENATE Function
+  
 ### Practice Completed
 
 * Created simple tables
@@ -15,6 +16,7 @@
 * Calculated totals using SUM
 * Found average values using AVERAGE
 * Identified smallest and largest values using MIN and MAX
+* Combine First Name + Last Name Using CONCATENATE
 
 ### Next Topics
 
