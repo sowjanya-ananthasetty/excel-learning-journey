@@ -1,4 +1,4 @@
-# 📅 Day 2 – Inventory Management System (Microsoft Excel)
+# Inventory Management System (Microsoft Excel)
 
 ## 📌 Project Overview
 
